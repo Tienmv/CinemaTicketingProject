@@ -1,0 +1,12 @@
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\bin\Debug\net6.0\Persistence.deps.json
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\bin\Debug\net6.0\Persistence.dll
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\bin\Debug\net6.0\Persistence.pdb
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.dll
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\Persistence.pdb
+F:\PF1117 A&P\CinemaProject\CinemaTicketingSystem\Persistence\obj\Debug\net6.0\ref\Persistence.dll
